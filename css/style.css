@@ -83,6 +83,7 @@ span{
     margin-right: 3rem;
     font-weight: 500;
     position: relative;
+    text-decoration: none;
 }
 .navbar a::after{
     content: '';
